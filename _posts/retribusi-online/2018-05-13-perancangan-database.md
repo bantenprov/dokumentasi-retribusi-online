@@ -13,6 +13,8 @@ Seperti biasanya perangcangan aplikasi didahului oleh perancangan database, untu
 
 ## Tabel OPD
 
+Adalah tabel yang menampung daftar Organisasi Perangkat Daerah yang ada di lingkungan Pemerintah provinsi Banten 
+
 ## Tabel Daftar Retribusi
 
 ## Tabel Master Tarif
