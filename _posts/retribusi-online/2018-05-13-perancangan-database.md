@@ -11,6 +11,8 @@ Seperti biasanya perangcangan aplikasi didahului oleh perancangan database, untu
 
 ## Perancangan Database
 
+ [![Perancangan database sistem](/images/retribusi-online/perancangan-database/retibusi_online-perancangan-database-sistem.png)](/images/retribusi-online/perancangan-database/retibusi_online-perancangan-database-sistem.png)
+
 ## Tabel OPD
 
 Adalah tabel yang menampung daftar Organisasi Perangkat Daerah yang ada di lingkungan Pemerintah provinsi Banten 
