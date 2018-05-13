@@ -7,4 +7,26 @@ description: Perancangan database aplikasi Retribusi Online Pemerintah Provinsi 
 type: Document
 ---
 
+Seperti biasanya perangcangan aplikasi didahului oleh perancangan database, untuk melihat tabel - tabel yang diperlukan dan juga keterkaitan atau relasi antar tabel tabel tersebut.
+
+## Perancangan Database
+
+## Tabel OPD
+
+## Tabel Daftar Retribusi
+
+## Tabel Master Tarif
+
+## Tabel Tarif
+
+## Tabel Transaksi
+
+## Tabel Item
+
+## Tabel Nomor Rekening
+
+## Tabel Customer
+
+## Tabel admin
+
 
