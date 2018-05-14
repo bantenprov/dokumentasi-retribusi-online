@@ -7,3 +7,9 @@ description: Perancangan laporan aplikasi Retribusi Online Pemerintah Provinsi B
 type: Document
 ---
 
+## Laporan Harian
+
+## Laporan Rekapitulasi
+
+##
+

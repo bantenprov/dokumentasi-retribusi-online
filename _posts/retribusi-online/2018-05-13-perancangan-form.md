@@ -3,7 +3,7 @@ date: 2017-01-16
 title: Perancangan form
 categories:
   - Retribusi-Online
-Description: Perancangan form aplikasi Retribusi Online Pemerintah Provinsi Banten
+description: Perancangan form aplikasi Retribusi Online Pemerintah Provinsi Banten
 type: Document
 ---
 
@@ -68,4 +68,3 @@ Berikut ini adalah rancangan eksekusi aplikasi Retribusi Online Pemerintah Provi
 ## Admin View Data Customer
 
 [![Admin View Data Customer](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-view-data-customers.png)](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-view-data-customers.png)
-
