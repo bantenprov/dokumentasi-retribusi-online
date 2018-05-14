@@ -27,11 +27,11 @@ Berikut ini adalah rancangan eksekusi aplikasi Retribusi Online Pemerintah Provi
 
 ## Admin Tambah Daftar Retribusi
 
-[![Admin Tambah Daftar Retribusi](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-tambah-retribusi-customer.png)](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-tambah-retribusi-customer.png)
+[![Admin Tambah Daftar Retribusi](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-tambah-daftar-retribusi.png)](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-tambah-daftar-retribusi.png)
 
 ## Admin Tambah Retribusi Customer
 
-[![Admin Tambah Retribusi Customer](/images/retribusi-online/perancangan-form/psb-umum_rancangan-halaman-super-admin-tambah-admin-sekolah.png)](/images/retribusi-online/perancangan-form/psb-umum_rancangan-halaman-super-admin-tambah-admin-sekolah.png)
+[![Admin Tambah Retribusi Customer](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-tambah-retribusi-customer.png)](/images/retribusi-online/perancangan-form/retribusi-online_rancangan-halaman-super-admin-tambah-retribusi-customer.png)
 
 ## Super Admin Tambah Items
 
