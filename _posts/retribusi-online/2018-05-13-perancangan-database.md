@@ -20,6 +20,7 @@ Adalah tabel yang menampung daftar Organisasi Perangkat Daerah yang ada di lingk
 1. id: Merupakan **id** dari data opd.
 2. timestamps: Merupakan tanggal di buatnya data.
 3. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
+4. uuid: Merupakan **id** dari data opd yang berjenis string dan unique.
 
 ## Tabel Daftar Retribusi
 
@@ -41,15 +42,16 @@ Adalah tabel yang menampung data master dari Tarif Retribusi Perangkat Daerah ya
 
 1. id: Merupakan **id** dari data master tarif.
 2. uuid: Merupakan **id** dari data master tarif yang berjenis string dan unique.
-3. dasar_hukum: Merupakan data dasar hukum dari tarif retribusi.
-4. status: Merupakan data status dari tarif retribusi.
-5. timestamps: Merupakan tanggal di buatnya data.
-6. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
+3. nama: Merupakan nama dari data Master Tarif.
+4. dasar_hukum: Merupakan data dasar hukum dari tarif retribusi.
+5. level: Merupakan nama dari data level master tarif.
+6. status: Merupakan data status dari tarif retribusi.
 7. daftar_retribusi_id: Merupakan **id** dari data daftar retribusi.
 8. daftar_retribusi_uuid: Merupakan **id** dari data daftar retribusi yang berjenis string dan unique.
 9. user_id: Merupakan **id** dari data user.
 10. user_update: Merupakan data yang di update oleh user.
- 
+11. timestamps: Merupakan tanggal di buatnya data.
+12. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
 
 ## Tabel Tarif
 
@@ -58,14 +60,15 @@ Adalah tabel yang menampung daftar Tarif Retribusi Perangkat Daerah yang ada di 
 1. id: Merupakan **id** dari data tarif.
 2. uuid: Merupakan **id** dari data tarif yang berjenis string dan unique.
 3. uraian: Merupakan nama dari data uraian tarif.
-4. jasa_pelayanan: Merupakan nama dari data tarif jasa pelayanan.
-5. jasa_sarana: Merupakan nama dari data tarif jasa sarana.
-6. satuan: Merupakan nama dari data tarif jasa satuan.
-7. timestamps: Merupakan tanggal di buatnya data.
-8. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
-9. master_tarif_id: Merupakan **id** dari data Master tarif.
-10. user_id: Merupakan **id** dari data user.
-11. user_update: Merupakan data yang di update oleh user.
+4. tarif: Merupakan nama data dari besaram tarif.
+5. jasa_pelayanan: Merupakan nama dari data tarif jasa pelayanan.
+6. jasa_sarana: Merupakan nama dari data tarif jasa sarana.
+7. satuan: Merupakan nama dari data tarif jasa satuan.
+8. timestamps: Merupakan tanggal di buatnya data.
+9. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
+10. master_tarif_id: Merupakan **id** dari data Master tarif.
+11. user_id: Merupakan **id** dari data user.
+12. user_update: Merupakan data yang di update oleh user.
 
 ## Tabel Transaksi
 
@@ -126,9 +129,10 @@ Adalah tabel yang menampung daftar Customer Retribusi Perangkat Daerah yang ada 
 1. id: Merupakan **id** dari data customer.
 2. uuid: Merupakan **id** dari data customer yang berjenis string dan unique.
 3. nama: Merupakan nama dari data nama customer.
-4. timestamps: Merupakan tanggal di buatnya data.
-5. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
-6. user_id: Merupakan **id** dari data user.
+4. type: Merupakan nama dari data tipe customer.
+5. timestamps: Merupakan tanggal di buatnya data.
+6. softDeletes: Merupakan tanggal di hapusnya data. (Field ini akan terisi hanya jika data dihapus)
+7. user_id: Merupakan **id** dari data user.
  
 
 ## Tabel Retribusi Customer
