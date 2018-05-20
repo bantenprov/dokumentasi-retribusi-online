@@ -21,66 +21,66 @@ Di Provinsi Banten terdapat beberapa Organisasi Perangkat Daerah penghasil retri
 
 1. Dinas Kesehatan
 
- - Tempat Pelayanan Kesehatan Lainnya (Labkesda)
- - Lab Kalibrasi (Labkesda)
+  - Tempat Pelayanan Kesehatan Lainnya (Labkesda)
+  - Lab Kalibrasi (Labkesda)
 
 2. Dinas Pekerjaan Umum dan Penataan Ruang
 
- - Pemakaian Bahu Jalan
- - Ret. Pengujian Bahan dan Bangunan
- - Ret. Pengujian Air
- - Sepadan Sungai
- - Sewa Alat Berat
+  - Pemakaian Bahu Jalan
+  - Ret. Pengujian Bahan dan Bangunan
+  - Ret. Pengujian Air
+  - Sepadan Sungai
+  - Sewa Alat Berat
 
 3. Dinas Kelautan dan Perikanan
 
- - Laboratorium Komoditi Hasil Perikanan
- - Pelayanan Jasa Kepelabuhan
- - Penjualan Hasil Produksi Usaha Daerah
- - Retribusi Izin Usaha Perikanan kepada Orang Pribadi
+  - Laboratorium Komoditi Hasil Perikanan
+  - Pelayanan Jasa Kepelabuhan
+  - Penjualan Hasil Produksi Usaha Daerah
+  - Retribusi Izin Usaha Perikanan kepada Orang Pribadi
 
 4. Dinas Pertanian
 
- - Kesehatan Hewan dan Masyarakat Veteriner
- - Lab Pakan
- - Penjualan Hasil Produksi Usaha Daerah
+  - Kesehatan Hewan dan Masyarakat Veteriner
+  - Lab Pakan
+  - Penjualan Hasil Produksi Usaha Daerah
 
 5. Badan Penghubung
 
- - Ret. Pemakaian Wisma dan Ruang Rapat
+  - Ret. Pemakaian Wisma dan Ruang Rapat
 
 6. Dinas Perhubungan
 
- - Ret. Izin Trayek
- - Penggunaan Mobil Derek
+  - Ret. Izin Trayek
+  - Penggunaan Mobil Derek
 
 7. Dinas Ketenaga Kerjaan dan Transmigasi
 
- - Ret. Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA)
- - Pelayanan Pendidikan BLKI Serpong
+  - Ret. Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA)
+  - Pelayanan Pendidikan BLKI Serpong
 
 8. Dinas Perindustrian dan Perdagangan
 
- - Lab Kalibrasi
- - Sewa Aula
+  - Lab Kalibrasi
+  - Sewa Aula
 
 9. Dinas Pendidikan
 
- - Sewa Kantin
+  - Sewa Kantin
 
 10. Dinas Lingkungan Hidup dan Kehutanan
 
- - Lab Lingkungan Hidup
+  - Lab Lingkungan Hidup
 
 11. BAPENDA
 
- - Sewa Tanah
+  - Sewa Tanah
 
 12. Badan Pengembangan Sumber Daya Manusia
 
- - Pelayanan Penyelenggaraan Pendidikan
- - Penyewaan Tanah dan Bangunan
+  - Pelayanan Penyelenggaraan Pendidikan
+  - Penyewaan Tanah dan Bangunan
 
 13. Biro Umum
 
-- Sewa Bus Pemerintah Daerah
+  - Sewa Bus Pemerintah Daerah
